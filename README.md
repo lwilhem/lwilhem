@@ -1,6 +1,8 @@
 ## 👋 Hello there,
     
-    I'm not General Kenobi :disappointed: , But I am a french Web developer 
+    I'm not General Kenobi
+    ![surpised Pikachu face](img/surprised-pikachu-face.jpg)
+    But I am a french Web developer 
 
 <!--
 **lwilhem/lwilhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
