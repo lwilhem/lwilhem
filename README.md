@@ -1,14 +1,20 @@
-## 👋 Hey You, You're Finally Awake
-    
-    I am a french web developer student,
+<h1>👋 Hey You, You're Finally Awake</h1>
 
-###Skills
-    <iframe src="https://giphy.com/embed/xFmuT64Jto3mRO4w3G" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-        <p>
-            <a href="https://giphy.com/gifs/oc-css-hourglass-xFmuT64Jto3mRO4w3G">via GIPHY</a>
-        </p>
+<br><br>
 
-            \* Waiting to acquire actual skills*\
+<p style="text-align:center; font-size: 24px; font-weight:bold;">I'm a French we
+developper Student</p>
+
+<br><br>
+<h2 style="text-align:center; font-size: 24px;">Stacks</h2>
+
+<iframe style="margin:0 auto:" src="https://giphy.com/embed/xFmuT64Jto3mRO4w3G" width="240" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p style="text-align:center;">
+<br>
+\*Waiting to acquire actual skills*\
+
+
+
 
 <!--
 **lwilhem/lwilhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
